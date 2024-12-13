@@ -1,0 +1,11 @@
+{
+  "name": "jitc-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader to automatically add a fallback try-catch block to your async code body",
+  "main": "index.js",
+  "author": "fangkai12303@163.com",
+  "license": "MIT",
+  "peerDependencies": {
+    "@babel/core": "^7.16.0"
+  }
+}
